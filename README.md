@@ -1,11 +1,60 @@
-### 𝘼𝙝𝙤𝙮 𝙈𝙖𝙩𝙚𝙮 🙋🏻‍♂️
+# Gourang Thakur
 
-- 👨‍💻 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘋𝘢𝘵𝘢 𝘚𝘤𝘪𝘦𝘯𝘤𝘦
-- 💬 𝘈𝘴𝘬 𝘮𝘦 𝘢𝘣𝘰𝘶𝘵 𝘢𝘯𝘺 𝘥𝘢𝘵𝘢 𝘳𝘦𝘭𝘢𝘵𝘦𝘥 𝘴𝘵𝘶𝘧𝘧
-- 📫 𝘏𝘰𝘸 𝘵𝘰 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦: [Twitter- Gourang_thakur](https://twitter.com/gourang_thakur) │ [Linkedin- Gourang Thakur](www.linkedin.com/in/gourang-thakur) 
-- 😄 𝘗𝘳𝘰𝘯𝘰𝘶𝘯𝘴: 𝘏𝘦 / 𝘏𝘪𝘴
-- 🎶 𝘍𝘶𝘯 𝘧𝘢𝘤𝘵: 𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘫𝘢𝘶𝘯𝘵 𝘢𝘳𝘰𝘶𝘯𝘥 𝘮𝘺 𝘱𝘭𝘢𝘺𝘭𝘪𝘴𝘵
-<h3 align="center">I translate data into valuable and comprehensible insights</h3>
+<h3 align="center">
+Data Analyst transitioning into Data Science | Python • SQL • Machine Learning • Data Visualization
+</h3>
+
+---
+
+## About Me
+
+- 👨‍💻 Currently working as a Data Analyst and expanding my skills in Data Science & Machine Learning
+- 📊 Experienced in Social Media Analytics, Consumer Insights & Data Visualization
+- 🧠 Passionate about transforming raw data into actionable business insights
+- 🌱 Currently learning Machine Learning, NLP & Advanced Python
+- 💬 Ask me about Python, SQL, Analytics, Dashboards & Data Storytelling
+- 🎶 Music, travel & cinematic storytelling enthusiast
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Google Analytics
+- Talkwalker
+- Machine Learning
+- Data Visualization
+
+---
+
+## Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gourang-thakur/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+</a>
+
+<a href="https://twitter.com/gourang_thakur" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" />
+</a>
+
+<a href="https://www.instagram.com/" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="30" width="30" />
+</a>
+</p>
+
+---
+
+<h3 align="center">
+Turning raw data into valuable and comprehensible insights
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourang-thakur&label=Profile%20views&color=0e75b6&style=flat" alt="gourang-thakur" /> </p>
 
