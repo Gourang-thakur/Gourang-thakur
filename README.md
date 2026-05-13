@@ -1,7 +1,7 @@
 # Gourang Thakur
 
 <h3 align="center">
-Data Analyst transitioning into Data Science | Python • SQL • Machine Learning • Data Visualization
+Data Analyst skilled in Python, SQL, Power BI & Social Listening Analytics.
 </h3>
 
 ---
