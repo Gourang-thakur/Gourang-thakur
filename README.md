@@ -6,18 +6,16 @@ Data Analyst | Python • SQL • Power BI • Social Listening Analytics
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-* 👨‍💻 Data Analyst with 3.5+ years of experience in social listening, marketing analytics, and business intelligence.
-      Currently building end-to-end analytics projects using SQL, Python, and Power BI.
-* 📊 Experienced in Social Media Analytics, Consumer Insights & Data Visualization
-* 🧠 Passionate about transforming raw data into actionable business insights
-* 🌱 Currently learning Machine Learning, NLP & Advanced Python
-* 💬 Ask me about Python, SQL, Analytics, Dashboards & Data Storytelling
-* 🎶 Music, travel & cinematic storytelling enthusiast
+* 👨‍💻 Data Analyst with 3.5+ years of experience in social listening, marketing analytics, and business intelligence, currently building end-to-end analytics projects using SQL, Python, and Power BI.
+* 📊 Experienced in Social Media Analytics, Consumer Insights & Data Visualization.
+* 🧠 Passionate about transforming raw data into actionable business insights.
+* 🌱 Currently learning Machine Learning, NLP & Advanced Python.
+* 💬 Ask me about Python, SQL, Analytics, Dashboards & Data Storytelling.
+* 🎶 Music, travel & cinematic storytelling enthusiast.
 
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -36,10 +34,11 @@ Data Analyst | Python • SQL • Power BI • Social Listening Analytics
   <img src="https://img.shields.io/badge/Talkwalker-0033A0?style=for-the-badge" />
 </p>
 
+---
 
 ## 🚀 Featured Projects
 
-* 📈 Customer Intelligence & Churn Analytics Platform
+* 📈 [Customer Intelligence & Churn Analytics Platform](https://github.com/Gourang-thakur/customer-intelligence-churn-analytics)
 * 🛒 Marketing & Revenue Analytics Suite *(Coming Soon)*
 * 📱 Social Media Intelligence & Brand Reputation Platform *(Coming Soon)*
 
@@ -48,17 +47,17 @@ Data Analyst | Python • SQL • Power BI • Social Listening Analytics
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/gourang-thakur/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
-</a>
+  <a href="https://www.linkedin.com/in/gourang-thakur/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
+  </a>
 
-<a href="https://www.instagram.com/gourang_thakur/" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35" />
-</a>
+  <a href="https://www.instagram.com/gourang_thakur/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35" />
+  </a>
 
-<a href="https://www.kaggle.com/gourangthakurr" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="35" />
-</a>
+  <a href="https://www.kaggle.com/gourangthakurr" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="35" />
+  </a>
 </p>
 
 ---
@@ -67,6 +66,13 @@ Data Analyst | Python • SQL • Power BI • Social Listening Analytics
 Turning raw data into business insights through analytics and storytelling.
 </h3>
 
+---
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gourang-thakur&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gourang-thakur&show_icons=true&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourang-thakur&layout=compact&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gourang-thakur&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
