@@ -1,25 +1,24 @@
 # Gourang Thakur
 
 <h3 align="center">
-Data Analyst skilled in Python, SQL, Power BI & Social Listening Analytics.
+Data Analyst | Python • SQL • Power BI • Social Listening Analytics
 </h3>
 
 ---
 
 ## About Me
 
-- 👨‍💻 Data Analyst with 3.5+ years of experience in social listening, marketing analytics, and business intelligence.
+* 👨‍💻 Data Analyst with 3.5+ years of experience in social listening, marketing analytics, and business intelligence.
       Currently building end-to-end analytics projects using SQL, Python, and Power BI.
-- 📊 Experienced in Social Media Analytics, Consumer Insights & Data Visualization
-- 🧠 Passionate about transforming raw data into actionable business insights
-- 🌱 Currently learning Machine Learning, NLP & Advanced Python
-- 💬 Ask me about Python, SQL, Analytics, Dashboards & Data Storytelling
-- 🎶 Music, travel & cinematic storytelling enthusiast
+* 📊 Experienced in Social Media Analytics, Consumer Insights & Data Visualization
+* 🧠 Passionate about transforming raw data into actionable business insights
+* 🌱 Currently learning Machine Learning, NLP & Advanced Python
+* 💬 Ask me about Python, SQL, Analytics, Dashboards & Data Storytelling
+* 🎶 Music, travel & cinematic storytelling enthusiast
 
 ---
 
-## Tech Stack
-
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
@@ -30,47 +29,43 @@ Data Analyst skilled in Python, SQL, Power BI & Social Listening Analytics.
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Talkwalker-0033A0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 </p>
 
 ---
 
-## Connect With Me
+## 🚀 Featured Projects
+
+* 📈 Customer Intelligence & Churn Analytics Platform
+* 🛒 Marketing & Revenue Analytics Suite *(Coming Soon)*
+* 📱 Social Media Intelligence & Brand Reputation Platform *(Coming Soon)*
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/gourang-thakur/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+<a href="https://www.linkedin.com/in/gourang-thakur/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
 </a>
 
-<a href="https://twitter.com/gourang_thakur" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" />
+<a href="https://www.instagram.com/gourang_thakur/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35" />
 </a>
 
-<a href="https://www.instagram.com/" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="30" width="30" />
+<a href="https://www.kaggle.com/gourangthakurr" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="35" />
 </a>
 </p>
 
 ---
 
 <h3 align="center">
-Turning raw data into valuable and comprehensible insights
+Turning raw data into business insights through analytics and storytelling.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gourang-thakur&label=Profile%20views&color=0e75b6&style=flat" alt="gourang-thakur" /> </p>
-
-<p align="left"> <a href="https://twitter.com/gourang_thakur" target="blank"><img src="https://img.shields.io/twitter/follow/gourang_thakur?logo=twitter&style=for-the-badge" alt="gourang_thakur" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gourang_thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gourang_thakur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gourang-thakur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gourang-thakur/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/gourangthakurr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gourangthakurr" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/gourang_thakur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gourang_thakur/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/xxJNXwU3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xxJNXwU3" height="30" width="40" /></a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gourang-thakur&show_icons=true&theme=default&hide_border=true" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gourang-thakur&show_icons=true&locale=en" alt="gourang-thakur" /></p>
