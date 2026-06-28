@@ -8,7 +8,7 @@ Data Analyst skilled in Python, SQL, Power BI & Social Listening Analytics.
 
 ## About Me
 
-- 👨‍💻 Currently working as a Data Analyst and expanding my skills in Data Science & Machine Learning
+- 👨‍💻 Data Analyst with 3.5+ years of experience in social listening, marketing analytics, and business intelligence. Currently building end-to-end analytics projects using SQL, Python, and Power BI.
 - 📊 Experienced in Social Media Analytics, Consumer Insights & Data Visualization
 - 🧠 Passionate about transforming raw data into actionable business insights
 - 🌱 Currently learning Machine Learning, NLP & Advanced Python
